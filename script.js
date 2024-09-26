@@ -149,7 +149,7 @@
           setTimeout(() => {
               document.getElementById('contactForm').reset();
               document.getElementById('successMessage').style.visibility = 'hidden';
-          }, 2000);
+          }, 5000);
       }
 
       return false;
